@@ -1,0 +1,52 @@
+header p {
+  text-align: center;
+  color: #555;
+  margin-top: 6px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.4;
+}
+
+.team-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 18px;
+  padding: 6px;
+}
+
+.member {
+  background-color: rgba(255,255,255,0.9); /* soft card */
+  border-radius: 10px;
+  padding: 14px;
+  width: 220px;
+  text-align: left; /* left aligned as you wanted */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+}
+
+.member h3 {
+  margin: 0 0 6px 0;
+  color: #2c3e50;
+  font-size: 1.05rem;
+}
+
+.member p {
+  margin: 4px 0;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.member a {
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.member a:hover {
+  color: #e67e22;
+}
+
+/* footer small tweak */
+footer p { color: #666; font-size: .9rem; margin: 8px 0; }
