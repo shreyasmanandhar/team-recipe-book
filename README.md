@@ -5,6 +5,7 @@
 - Shreyas Manandhar
 - Shaima Ben Othmane
 - Jayden Thompson
+- Daniel Aluko
 
 ## Project Overview
 This is a collaborative project designed to help us practice and demonstrate our skills with **Git**, **GitHub**, and **team collaboration workflows**.
