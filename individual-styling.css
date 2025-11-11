@@ -1,0 +1,40 @@
+/* General page setup */
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+/* Headings */
+h1, h2, h3 {
+    margin: 10px 0;
+    color: #333;
+}
+
+/* Lists for ingredients and instructions */
+ul, ol {
+    margin: 10px 0 20px 20px; /* left-aligned with padding */
+    padding-left: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+a:hover {
+    color: #e67e22;
+}
+
+/* Paragraphs for cooking time / servings */
+p {
+    font-style: italic;
+    color: #555;
+}
